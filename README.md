@@ -1,6 +1,6 @@
 ### Hi there 👋 ,I'm Elif
 ---------------------
-<img alt="Coding" width="450" src="file:///Users/ekaragoz/Desktop/BREATHE%20%3B%20BAKUGOU%20KATSUKI%20-%20INTRO_.gif" align="right"/>
+<img alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1000/0*eWhlGZcwxeHksiVr.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
 * 🔭 I’m currently working on **Born2BeRoot**
