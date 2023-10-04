@@ -3,7 +3,7 @@
 <img alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1000/0*eWhlGZcwxeHksiVr.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
-* 🔭 I’m currently working on **Born2BeRoot**
+* 🔭 I’m currently working on **PushSwap**
 * 🌱 I’m currently learning **C**
 
 -----------------------------
